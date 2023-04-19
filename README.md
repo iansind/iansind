@@ -14,10 +14,10 @@
   - Prediction of milk quality utilizing a trained ensemble model.
   - Various administrative roles.
 
-#### news-article-classification
-- Unsupervised learning assessment of text documents in the form of BBC news articles. 
-- Utilizes non-negative matrix factorization to obtain top keywords associated with each cluster.
-- Implementation of a predictive model based on the fitted NMF matricies.
+#### car-attributes
+- Extensive web scraping of caranddriver.com to obtain a large dataset of expansive specifications for every available make, model, style, and trim of car. 
+- Uses Selenium to obtain data.
+- Error handling and checkpoint saving are built in. 
 
 #### heart-disease-prediction
 - Supervised learning project that predicts risk of coronary heart disease based on common patient medical attributes.
